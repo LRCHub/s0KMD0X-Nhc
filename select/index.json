@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ここにいたい",
+  "base_artist": "sajou no hana",
+  "createdAt": "2026-02-24T23:45:13.956946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ここにいたい",
+      "artist": "sajou no hana",
+      "has_synced": true,
+      "path": "select/01_ここにいたい_sajou_no_hana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ここにいたい",
+      "artist": "sajou no hana",
+      "has_synced": false,
+      "path": "select/pl_01_ここにいたい_sajou_no_hana.txt"
+    }
+  ]
+}
